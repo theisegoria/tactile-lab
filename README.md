@@ -21,8 +21,8 @@ light bar flashes), open Tactile Lab and allow Input Monitoring when asked.
 
 Requires macOS 27 on Apple silicon. The app is signed with a Developer ID but not notarized. The first time, right-click it in Applications and choose **Open**, then **Open** again.
 
-Developers: the Tactile library behind the app (Swift, C ABI and engine bindings) is at
-[theisegoria/tactile](https://github.com/theisegoria/tactile).
+Source: Tactile Lab is free and open source. Its source (the `App/` folder) and the Tactile library behind it (Swift,
+C ABI and engine bindings) are at [theisegoria/tactile](https://github.com/theisegoria/tactile).
 
 ## Licence
-Free to use. See [LICENSE](LICENSE) and [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
+MIT. See [LICENSE](LICENSE) and [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
